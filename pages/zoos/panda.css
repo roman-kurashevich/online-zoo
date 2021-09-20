@@ -1,0 +1,18 @@
+.info-container {
+  height: 209px;
+}
+@media screen and (max-width: 1919px) {
+  .info-container {
+    height: 264px;
+  }
+}
+@media screen and (max-width: 1199px) {
+  .info-container {
+    height: 193px;
+  }
+}
+@media screen and (max-width: 639px) {
+  .info-container {
+    height: 225px;
+  }
+}
